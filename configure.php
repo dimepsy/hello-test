@@ -3,3 +3,5 @@
 	mysql_select_db('wikidata') or die('Database not found.' . mysql_error());
 ?>
 /* This is not the requirement */
+else 
+another
